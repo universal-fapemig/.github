@@ -17,6 +17,19 @@ As soluções propostas são fundamentadas na **Transformada de Burrows–Wheele
 
 ---
 
+## 🔗 Repositórios Relacionados
+
+- **Comparação de genomas com grafos de Bruijn sucintos**  
+  https://github.com/universal-fapemig/cdbg-comparison
+
+- **Left-Bounded Shortest Unique Substrings (LSUS)**  
+  https://github.com/universal-fapemig/lsus
+
+- **Compressão de arquivos FASTQ baseada em BWT**  
+  https://github.com/universal-fapemig/fastq-compression
+
+---
+
 ## 📚 Resultados Científicos
 
 O projeto originou publicações em periódicos e conferências internacionais, incluindo:
